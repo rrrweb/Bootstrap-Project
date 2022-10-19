@@ -12,7 +12,10 @@
 /* End banner section */
 /* Start Navbar Section */
 .navbar-container{
-    background-color: rgba(13, 51, 88, 0.636);
+    background-color: rgba(13, 51, 88, 1);
+    position: sticky;
+    top: 0;
+    z-index: 3;
 }
 /* End Navbar Section */
 /* Start about section */
