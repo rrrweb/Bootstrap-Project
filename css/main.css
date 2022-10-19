@@ -1,0 +1,33 @@
+/* Start Banner Section */
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background-color: rgba(10, 161, 185, 0.636);
+}
+.banner-content{
+    background-color: rgba(13, 51, 88, 0.636);
+}
+/* End banner section */
+/* Start Navbar Section */
+.navbar-container{
+    background-color: rgba(13, 51, 88, 0.636);
+}
+/* End Navbar Section */
+/* Start about section */
+.about-container{
+    background-color: rgba(10, 161, 185, 0.636);
+}
+/* Start education section */
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: brown;
+}
+/* End education section */
+/* Start project section */
+.project-container{
+    background-color: rgba(10, 161, 185, 0.636);
+}
