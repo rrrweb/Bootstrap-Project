@@ -27,10 +27,26 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-color: brown;
+    background-color: rgba(10, 161, 185, 0.636);
 }
 /* End education section */
 /* Start project section */
 .project-container{
     background-color: rgba(10, 161, 185, 0.636);
+}
+/* End project section */
+/* Start Form section */
+.Form-container{
+    background-color: rgba(10, 161, 185, 0.636);
+}
+.input-form{
+    background-color: rgba(10, 161, 185, 0.636);
+}
+.btn-background{
+    color: black;
+    background-color: rgba(10, 161, 185, 0.636);
+}
+.btn-background:hover{
+    background-color: brown;
+    color: white;
 }
