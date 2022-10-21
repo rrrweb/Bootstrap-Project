@@ -4,10 +4,10 @@
     padding: 0;
 }
 .banner{
-    background-color: rgba(10, 161, 185, 0.636);
+    background-color: rgba(10, 161, 185, 1);
 }
 .banner-content{
-    background-color: rgba(13, 51, 88, 0.636);
+    background-color: rgba(13, 51, 88, 1);
 }
 /* End banner section */
 /* Start Navbar Section */
@@ -20,33 +20,55 @@
 /* End Navbar Section */
 /* Start about section */
 .about-container{
-    background-color: rgba(10, 161, 185, 0.636);
+    background-color: rgba(10, 161, 185, 1);
 }
 /* Start education section */
 .circle{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-color: rgba(10, 161, 185, 0.636);
+    background-color: rgba(10, 161, 185, 1);
+}
+.text-color{
+    color: rgba(13, 51, 88, 1);
 }
 /* End education section */
 /* Start project section */
 .project-container{
-    background-color: rgba(10, 161, 185, 0.636);
+    background-color: rgba(10, 161, 185, 1);
 }
 /* End project section */
 /* Start Form section */
 .Form-container{
-    background-color: rgba(10, 161, 185, 0.636);
+    background-color: rgba(10, 161, 185,1);
 }
 .input-form{
-    background-color: rgba(10, 161, 185, 0.636);
+    background-color: rgba(10, 161, 185, 1);
 }
 .btn-background{
     color: black;
-    background-color: rgba(10, 161, 185, 0.636);
+    background-color: rgba(13, 51, 88, 1);
 }
 .btn-background:hover{
     background-color: brown;
     color: white;
+}
+/* End form section */
+/* Start footer section */
+.footer-container{
+    background-color: rgba(13, 51, 88, 1);
+}
+.footer-circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: rgba(10, 161, 185,1);
+    display: inline-block;
+    text-align: center;
+    color: rgba(13, 51, 88, 1);
+    font-size: 42px;
+}
+.footer-circle:hover{
+    background-color: rgba(13, 51, 88, 1);
+    color: rgba(10, 161, 185,1);
 }
